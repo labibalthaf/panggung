@@ -1,0 +1,33 @@
+{
+  "T_hari": 60,
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "jaringan": {
+    "facebook_snap": {
+      "simpul": 4039,
+      "sisi": 88234,
+      "rerata_derajat": 43.69101262688784,
+      "sha256": "f41c026ed8af3cc3359f1ca5573d0605fb09ae0eefa34544b820fd8c6e2ef296",
+      "pct_teman_lebih_populer": 87.47214657093339,
+      "pct_teman_sama_populer": 0.0
+    },
+    "sintetis_BA": {
+      "simpul": 4039,
+      "sisi": 88374,
+      "rerata_derajat": 43.76033671700916,
+      "sha256": null,
+      "pct_teman_lebih_populer": 91.65635058182718,
+      "pct_teman_sama_populer": 0.0
+    }
+  }
+}
